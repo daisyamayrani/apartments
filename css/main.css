@@ -316,8 +316,7 @@ footer {
     position: relative;
     width: 100%;
     display: inline-grid;
-    grid-template-columns: 1fr 1fr;
-    background-color: red; }
+    grid-template-columns: 1fr 1fr; }
     .contact__map__img {
       width: 100%;
       height: 60vh; }
